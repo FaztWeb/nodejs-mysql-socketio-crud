@@ -11,7 +11,8 @@ you need a simple database and table. You could find it in the sql folder at the
 ### Installation
 
 ```
-
+git clone https://github.com/FaztWeb/nodejs-mysql-socketio-crud
+cd nodejs-mysql-socket-io-crud
 ```
 
 ```
